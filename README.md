@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://photos.app.goo.gl/vjR3uHsbCe46KyF77" align="center" alt="ks5_logo" />
- <h2 align="center">Profile</h2>
+ <img width="100px" src="./images/ks5.png" align="center" alt="ks5_logo" />
+ <h2 align="center">Welcome!</h2>
 </p>
 
 ### Hi there 👋 I'm [ks5_dev](https://anandmainali.com.np)
@@ -18,7 +18,7 @@ I am 17 year-old kid who find school pretty boring, so I do programming in my fr
 
 ### Programming Languages 🌐
 
-| [<img src="./images/python.jpg" alt="Python" width="24">](https://www.python.org/) | [<img src="./images/c.png" alt="C" width="38">](https://en.cppreference.com/w/)  | [<img src="./images/cplusplus" alt="Cpp" width="24">](https://en.cppreference.com/w/)  |  [<img src="./images/rust.png" alt="Rust" width="24">](https://www.rust-lang.org/) |  [<img src="./images/js.png" alt="jQuery" width="24">](https://www.javascript.com/)) |
+| [<img src="./images/python.jpg" alt="Python" width="24">](https://www.python.org/) | [<img src="./images/c.png" alt="C" width="38">](https://en.cppreference.com/w/)  | [<img src="./images/cplusplus.png" alt="Cpp" width="24">](https://en.cppreference.com/w/)  |  [<img src="./images/rust.png" alt="Rust" width="24">](https://www.rust-lang.org/) |  [<img src="./images/js.png" alt="jQuery" width="24">](https://www.javascript.com/)) |
 |---|---|---|---|---|
 
 ### Github Stats
