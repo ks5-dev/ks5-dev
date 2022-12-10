@@ -27,7 +27,7 @@ I am 17 year-old kid who find school pretty boring, so I do programming in my fr
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ks5-dev&repo=GalaxyTraverller&show_owner=true)](https://github.com/ks5-dev/Galaxy_Traveller)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ks5-dev&repo=Galaxy_Traverller&show_owner=true)](https://github.com/ks5-dev/Galaxy_Traveller)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
