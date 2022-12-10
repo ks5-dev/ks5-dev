@@ -1,13 +1,10 @@
 <p align="center">
  <img width="100px" src="./images/ks5.png" align="center" alt="ks5_logo" />
- <h2 align="center">Welcome!</h2>
+ <h2 align="center">Welcome to my github profile!</h2>
 </p>
 
 ### Hi there 👋 I'm [ks5_dev](https://anandmainali.com.np)
 > A hobbyist highschool developer
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
@@ -27,10 +24,10 @@ I am 17 year-old kid who find school pretty boring, so I do programming in my fr
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ks5-dev&repo=Galaxy_Traverller&show_owner=true)](https://github.com/ks5-dev/Galaxy_Traveller)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ks5-dev&repo=Galaxy_Traveller&show_owner=true)](https://github.com/ks5-dev/Galaxy_Traveller)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contact/Befriend me at </h3>
 
 <p align="center">
 
