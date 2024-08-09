@@ -3,12 +3,14 @@
  <h2 align="center">Welcome to my github profile!</h2>
 </p>
 
-### Hi there 👋 I'm [ltkdt](https://anandmainali.com.np)
+### Hi there 👋 
 > Embedded system enthusiast
 
 <div>
  <p>
 [EN] Hi, I'm an university student majoring in Electonics & Telecommunication who wants to study embedded system but my projects are not limtited to this topic, there are other hobby projects too.
+</p>
+ <p>
 [VN] Xin chào, mình là sinh viên ngành Kỹ thuật Điện tử Viễn Thông Bách Khoa Hà Nội định hướng học hệ thống nhúng nhưng những dự án của mình ở đây không chỉ giởi hạn ở mảng này mà còn nhiều dự án vui khác.
 </p>
 </div>
