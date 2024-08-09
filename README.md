@@ -4,12 +4,12 @@
 </p>
 
 ### Hi there 👋 I'm [ks5_dev](https://anandmainali.com.np)
-> A hobbyist highschool developer
+> Embedded system enthusiast
 
 <div>
  <p>
-I am 17 year-old kid who find school pretty boring, so I do programming in my free time for fun and so far I have enjoyed it. I'm into Computer Science, game-dev (hobby games, not for profit) and web development. 
-
+[EN] Hi, I'm an university student majoring in Electonics & Telecommunication who wants to study embedded system but my projects are not limtited to this topic, there are other hobby projects too.
+[VN] Xin chào, mình là sinh viên ngành Kỹ thuật Điện tử Viễn Thông Bách Khoa Hà Nội định hướng học hệ thống nhúng nhưng những dự án của mình ở đây không chỉ giởi hạn ở mảng này mà còn nhiều dự án vui khác.
 </p>
 </div>
 
